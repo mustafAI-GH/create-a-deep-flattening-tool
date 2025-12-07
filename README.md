@@ -1,1 +1,6 @@
-# create-a-deep-flattening-tool
+## 🧠 About This Project
+
+I created this project as part of the [FreeCodeCamp](https://www.freecodecamp.org) program — **Create a Deep Flattening Tool**. 
+I used JavaScript to complete it.
+
+Next step.. ⏳
